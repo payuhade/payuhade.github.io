@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://payuhade.github.io/sitemap.html.gz
+Sitemap: https://payuhade.github.io/app/sitemap.html.gz
+Sitemap: https://payuhade.github.io/assets/sitemap.html.gz
+Sitemap: https://payuhade.github.io/css/sitemap.html.gz
+Sitemap: https://payuhade.github.io/includes/sitemap.html.gz
+Sitemap: https://payuhade.github.io/item/sitemap.html.gz
+Sitemap: https://payuhade.github.io/src/sitemap.html.gz
